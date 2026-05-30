@@ -37,5 +37,5 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: hapifyme-e2e-test-results
+          name: hapifyme-E2E-test-results
           path: target/surefire-reports/
