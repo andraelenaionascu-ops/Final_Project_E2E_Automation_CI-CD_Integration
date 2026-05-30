@@ -1,4 +1,3 @@
-<img width="1406" height="277" alt="Github_Actions_Result" src="https://github.com/user-attachments/assets/2de7aaca-50ec-4b54-97bd-7fc27190c2c4" />
 # HapifyMe API End-to-End (E2E) Automation Project
 
 [![HapifyMe API E2E Automation](https://github.com/andraelenaionascu-ops/Final_Project_E2E_Automation_CI-CD_Integration/actions/workflows/test.yml/badge.svg)](https://github.com/andraelenaionascu-ops/Final_Project_E2E_Automation_CI-CD_Integration/actions/workflows/test.yml)
@@ -44,3 +43,5 @@ Pentru a executa întreaga suită de teste din linia de comandă, navighează î
 
 ```bash
 mvn clean test
+
+<img width="1406" height="277" alt="Github_Actions_Result" src="https://github.com/user-attachments/assets/2de7aaca-50ec-4b54-97bd-7fc27190c2c4" />
