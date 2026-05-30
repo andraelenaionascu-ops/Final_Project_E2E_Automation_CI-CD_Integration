@@ -2,6 +2,8 @@
 
 [![HapifyMe API E2E Automation](https://github.com/andraelenaionascu-ops/Final_Project_E2E_Automation_CI-CD_Integration/actions/workflows/test.yml/badge.svg)](https://github.com/andraelenaionascu-ops/Final_Project_E2E_Automation_CI-CD_Integration/actions/workflows/test.yml)
 
+<img width="1406" height="277" alt="Github_Actions_Result" src="https://github.com/user-attachments/assets/f447491b-7228-4da6-b532-68cab65df379" />
+
 Acest proiect reprezintă o suită de testare automatizată de tip **End-to-End (E2E)** pentru backend-ul aplicației **HapifyMe**, realizată ca parte a proiectului final de curs. Suita acoperă întregul ciclu de viață al unui utilizator, de la înregistrare până la ștergerea definitivă a contului, asigurând integritatea fluxurilor logice și a mecanismelor de securitate.
 
 Proiectul include integrarea continuă (**CI/CD**) prin GitHub Actions, executând testele automat la fiecare modificare de cod.
@@ -43,5 +45,3 @@ Pentru a executa întreaga suită de teste din linia de comandă, navighează î
 
 ```bash
 mvn clean test
-
-<img width="1406" height="277" alt="Github_Actions_Result" src="https://github.com/user-attachments/assets/2de7aaca-50ec-4b54-97bd-7fc27190c2c4" />
